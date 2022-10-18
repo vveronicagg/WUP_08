@@ -49,7 +49,7 @@ summary(lmNeck)
 
 ```{r}
  lmWeight = lm(LENGTH ~ WEIGHT, data = bears)
-summary(lmWeight)
+summary(lmWeight)       
 ```
 
 ```{r}
