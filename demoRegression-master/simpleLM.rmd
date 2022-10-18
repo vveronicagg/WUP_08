@@ -59,7 +59,7 @@ summary(lmChest)
 
 ```{r}
  lmHeadlen = lm(LENGTH ~ HEADLEN, data = bears)
-summary(lmHeadlen)
+summary(lmHeadlen)   
 ```
 
 ```{r}
