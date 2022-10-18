@@ -54,7 +54,7 @@ summary(lmWeight)
 
 ```{r}
  lmChest = lm(LENGTH ~ CHEST, data = bears)
-summary(lmChest)
+summary(lmChest)     
 ```
 
 ```{r}
