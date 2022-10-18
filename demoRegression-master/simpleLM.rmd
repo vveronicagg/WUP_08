@@ -69,7 +69,7 @@ summary(lmAge)
 
 ```{r}
  lmHeadwth = lm(LENGTH ~ HEADWTH, data = bears)
-summary(lmHeadwth)
+summary(lmHeadwth)  
 ```
 
 
