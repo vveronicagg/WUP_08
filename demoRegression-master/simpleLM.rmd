@@ -1,7 +1,7 @@
 ---
 title: "simpleRegress"
-author: "put your name here"
-date: "Fall 2020"
+author: "veronica gonzalez"
+date: "Fall 2022"
 output: html_document
 ---
 
