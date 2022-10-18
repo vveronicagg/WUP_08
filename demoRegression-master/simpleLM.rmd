@@ -64,7 +64,7 @@ summary(lmHeadlen)
 
 ```{r}
  lmAge = lm(LENGTH ~ AGE, data = bears)
-summary(lmAge)
+summary(lmAge)  
 ```
 
 ```{r}
